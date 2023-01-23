@@ -1,0 +1,25 @@
+{
+	"compilerOptions": {
+		"target": "es2015",
+		"noEmit": false,
+		"strict": false,
+		"allowJs": true,
+		"declaration": true,
+		"skipLibCheck": true,
+		"esModuleInterop": true,
+		"resolveJsonModule": true,
+		"moduleResolution": "node16",
+		"allowSyntheticDefaultImports": true,
+		"forceConsistentCasingInFileNames": true,
+		"outDir": "./lib",
+	},
+	"include": [
+		"**/*.ts",
+	],
+	"exclude": [
+		"jest.config.ts",
+		"node_modules",
+		"_test_",
+		"lib"
+	]
+}

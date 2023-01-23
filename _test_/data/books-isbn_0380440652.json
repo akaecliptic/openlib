@@ -1,0 +1,156 @@
+{
+	"ISBN:0380440652": {
+		"url": "https://openlibrary.org/books/OL7431780M/Foundation",
+		"key": "/books/OL7431780M",
+		"title": "Foundation",
+		"authors": [
+			{
+				"url": "https://openlibrary.org/authors/OL34221A/Isaac_Asimov",
+				"name": "Isaac Asimov"
+			}
+		],
+		"number_of_pages": 200,
+		"identifiers": {
+			"goodreads": [
+				"332040"
+			],
+			"librarything": [
+				"3116747"
+			],
+			"isbn_10": [
+				"0380440652"
+			],
+			"isbn_13": [
+				"9780380440658"
+			],
+			"oclc": [
+				"1007004"
+			],
+			"openlibrary": [
+				"OL7431780M"
+			]
+		},
+		"publishers": [
+			{
+				"name": "Avon"
+			}
+		],
+		"publish_date": "1966",
+		"subjects": [
+			{
+				"name": "Psychohistory",
+				"url": "https://openlibrary.org/subjects/psychohistory"
+			},
+			{
+				"name": "Open Library Staff Picks",
+				"url": "https://openlibrary.org/subjects/open_library_staff_picks"
+			},
+			{
+				"name": "Life on other planets",
+				"url": "https://openlibrary.org/subjects/life_on_other_planets"
+			},
+			{
+				"name": "Hari Seldon (Fictitious character)",
+				"url": "https://openlibrary.org/subjects/hari_seldon_(fictitious_character)"
+			},
+			{
+				"name": "Fiction",
+				"url": "https://openlibrary.org/subjects/fiction"
+			},
+			{
+				"name": "Science Fiction",
+				"url": "https://openlibrary.org/subjects/science_fiction"
+			},
+			{
+				"name": "Long Now Manual for Civilization",
+				"url": "https://openlibrary.org/subjects/long_now_manual_for_civilization"
+			},
+			{
+				"name": "Prophecy",
+				"url": "https://openlibrary.org/subjects/prophecy"
+			},
+			{
+				"name": "Historians",
+				"url": "https://openlibrary.org/subjects/historians"
+			},
+			{
+				"name": "Robots",
+				"url": "https://openlibrary.org/subjects/robots"
+			},
+			{
+				"name": "Large type books",
+				"url": "https://openlibrary.org/subjects/large_type_books"
+			},
+			{
+				"name": "Fiction, science fiction, general",
+				"url": "https://openlibrary.org/subjects/fiction,_science_fiction,_general"
+			},
+			{
+				"name": "American literature",
+				"url": "https://openlibrary.org/subjects/american_literature"
+			},
+			{
+				"name": "American Fantasy fiction",
+				"url": "https://openlibrary.org/subjects/american_fantasy_fiction"
+			},
+			{
+				"name": "Translations into Russian",
+				"url": "https://openlibrary.org/subjects/translations_into_russian"
+			},
+			{
+				"name": "Vie extraterrestre",
+				"url": "https://openlibrary.org/subjects/vie_extraterrestre"
+			},
+			{
+				"name": "Romans, nouvelles",
+				"url": "https://openlibrary.org/subjects/romans,_nouvelles"
+			},
+			{
+				"name": "Psychohistoire",
+				"url": "https://openlibrary.org/subjects/psychohistoire"
+			},
+			{
+				"name": "Science fiction",
+				"url": "https://openlibrary.org/subjects/science_fiction"
+			},
+			{
+				"name": "Psychological fiction",
+				"url": "https://openlibrary.org/subjects/psychological_fiction"
+			}
+		],
+		"subject_people": [
+			{
+				"name": "Hari Seldon",
+				"url": "https://openlibrary.org/subjects/person:hari_seldon"
+			},
+			{
+				"name": "Hober Mallow",
+				"url": "https://openlibrary.org/subjects/person:hober_mallow"
+			},
+			{
+				"name": "Salvor Hardin",
+				"url": "https://openlibrary.org/subjects/person:salvor_hardin"
+			}
+		],
+		"links": [
+			{
+				"title": "Publisher website",
+				"url": "https://www.booksontape.com/book/5655/foundation/"
+			}
+		],
+		"ebooks": [
+			{
+				"preview_url": "https://archive.org/details/foundation00asim",
+				"availability": "borrow",
+				"formats": {},
+				"borrow_url": "https://openlibrary.org/books/OL7431780M/Foundation/borrow",
+				"checkedout": false
+			}
+		],
+		"cover": {
+			"small": "https://covers.openlibrary.org/b/id/6501822-S.jpg",
+			"medium": "https://covers.openlibrary.org/b/id/6501822-M.jpg",
+			"large": "https://covers.openlibrary.org/b/id/6501822-L.jpg"
+		}
+	}
+}

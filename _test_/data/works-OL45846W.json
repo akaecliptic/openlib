@@ -1,0 +1,62 @@
+{
+	"title": "Matilda",
+	"key": "/works/OL45846W",
+	"authors": [
+		{
+			"author": {
+				"key": "/authors/OL34184A"
+			},
+			"type": {
+				"key": "/type/author_role"
+			}
+		}
+	],
+	"type": {
+		"key": "/type/work"
+	},
+	"description": "No podemos resistirnos a Matilda y recomendar a su autor a los niños que no lo conozcan. Matilda debe poner orden en una escuela poco acogedora porque sus profesores no están a la altura de su profesión. Pero el humor, la ironía y también la ternura harán que la escuela termine siendo un lugar amable donde ayuden a los niños a crecer y a leer. Roald Dahl decía que todos los niños tenían una brasa y que alguien debe encender el fuego y mantenerlo encendido. La escuela tiene este papel que cumplir porque de ello depende la luz del mundo.\r\n\r\nSource: [1], back cover\r\n\r\n\r\n  [1]: https://archive.org/details/matilda00roal",
+	"covers": [
+		6537407
+	],
+	"location": "/works/OL45890W",
+	"subjects": [
+		"juvenile fiction",
+		"Schools",
+		"Girls",
+		"Spanish language",
+		"Translations from English",
+		"Fiction",
+		"Humorous stories",
+		"Écoles",
+		"Romans, nouvelles, etc. pour la jeunesse",
+		"Filles",
+		"Muchachas",
+		"Novela juvenil",
+		"Escuelas",
+		"Materiales en español",
+		"Cuentos humorísticos",
+		"Spanish language materials",
+		"Romans, nouvelles",
+		"Récits humoristiques",
+		"Tong hua",
+		"Children's fiction",
+		"Schools, fiction",
+		"Child and youth fiction"
+	],
+	"subject_places": [
+		"Ying guo"
+	],
+	"subject_times": [
+		"Xiandai"
+	],
+	"latest_revision": 11,
+	"revision": 11,
+	"created": {
+		"type": "/type/datetime",
+		"value": "2009-10-15T11:34:21.437031"
+	},
+	"last_modified": {
+		"type": "/type/datetime",
+		"value": "2022-11-18T12:42:11.931296"
+	}
+}
