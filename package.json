@@ -11,7 +11,8 @@
 	"scripts": {
 		"dev": "nodemon openlib.ts",
 		"build": "del-cli lib/* dist/* && tsc",
-		"bundle": "npm run build && npm pack --pack-destination ./dist",
+		"prepack": "npm run build",
+		"bundle": "npm pack --pack-destination ./dist",
 		"test": "jest"
 	},
 	"author": "akaecliptic",
